@@ -32,9 +32,9 @@
                         <li><a>Contato</a></li>
                     </ul>
 
-                    <a class="waves-effect waves-light btn-large" href="form-frequencia.html">Cadastrar novo Formulário de Ficha de frequência</a>
-                    <a class="waves-effect waves-light btn-large"><i class="material-icons left">cloud</i>button</a>
-                    <a class="waves-effect waves-light btn-large"><i class="material-icons right">cloud</i>button</a>
+                    <center><a class="waves-effect waves-light btn-large" href="form-frequencia.html">Cadastrar novo Formulário de Ficha de frequência</a></center>
+                    <center><a class="waves-effect waves-light btn-large" ><i class="material-icons left" ></i>Inscrição</a></center>
+                    <center><a class="waves-effect waves-light btn-large"><i class="material-icons right"></i>Requerimento de Recurso</a></center>
 
     <!-- Compiled and minified JavaScript -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
