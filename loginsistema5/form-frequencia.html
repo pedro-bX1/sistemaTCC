@@ -9,61 +9,68 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 </head>
 <body>
-    <form action="" method="">
+    <form action="makepdf.php" method="POST">
         <div class="section container">
             <div class="row">
-                <form class="col s12" action="">
+                <form class="col s12" action="makepdf.php" method="POST">
 
                     <div class="row card-panel">
                         <div class="input-field col s3">
                             <label for="mes">Mês</label>
-                            <input type="text" id="mes">
+                            <input type="text" id="mes" name="mes">
                         </div>
+
                         <div class="input-field col s3">
                             <label for="data">Folha entregue em</label>
-                            <input type="date" id="data">
+                            <input type="text" id="data" name="data_de_entrega">
                         </div>
+
                         <div class="input-field col s3">
                             <label for="Nome_monitor">Monitor (a)</label>
-                            <input type="text" id="Nome_monitor">
+                            <input type="text" id="Nome_monitor" name="nome_monitor">
                         </div>
+
                         <div class="input-field col s3">
                             <label for="matricula">Matrícula</label>
-                            <input type="number" id="matricula">
+                            <input type="number" id="matricula" name="matricula">
                         </div>
+
                         <div class="input-field col s6">
                             <label for="com_curricular">Componente curricular</label>
-                            <input type="text" id="com_curricular">
+                            <input type="text" id="com_curricular" name="com_curricular">
                         </div>
+
                         <div class="input-field col s6">
                             <label for="hr_cumpridas">Total de horas cumpridas</label>
-                            <input type="number" id="hr_cumpridas">
+                            <input type="number" id="hr_cumpridas" name="hr_cumpridas">
                         </div>
+
                         <div class="input-field col s6">
                             <label for="orientador">Professor-orientador(a)</label>
-                            <input type="text" id="orientador">
+                            <input type="text" id="orientador" name="orientador">
                         </div></br>
                         
                         <div class="input-field col s3">
                             Dia:
                             <label for="dia_manha1">Manhã</label>
-                            <input type="text" id="dia_manha1">
+                            <input type="text" id="dia_manha1" name="dia_manha1">
                         </div>
+
                         <div class="input-field col s3">
                             <label for="tarde_noite1">Tarde / Noite</label>
-                            <input type="text" id="tarde_noite1">
+                            <input type="text" id="tarde_noite1" name="tarde_noite1">
                         </div>
 
                         <div class="input-field col s6">
-                            <label for="rubrica1">Rubrica do(a)
-                                monitor(a)</label>
-                            <input type="text" id="rubrica2">
+                            <label for="rubrica1">Rubrica do(a) monitor(a)</label>
+                            <input type="text" id="rubrica1" name="rubrica1">
                         </div>
                     </div>
+                    <CENTER><button type="submit">GERAR PDF</button></CENTER>
                 </form>
             </div>
         </div>
-        <CENTER><a class="waves-effect waves-light btn-large" href="relatorio.php">GERAR PDF</a></CENTER>
+        
     </form>
 </body>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
