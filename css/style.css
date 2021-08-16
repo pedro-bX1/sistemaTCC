@@ -1,0 +1,14 @@
+#telaLogin{
+    width: 350px;
+    top: 50%;
+    left: 50%;
+    position: absolute;
+    transform: translate(-50%, -50%);
+    box-shadow: 1px 5px 30px rgb(195, 195, 195);
+}
+#fundo{
+    background-image: url(https://curtamais.com.br/uploads/conteudos/d75c7cfb8e69854b501f71ebc4811c33.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
