@@ -32,18 +32,65 @@
                         <li><a>Contato</a></li>
                     </ul>
 
-
-
-                    <div class="row">
-    <div class="col s12 m6">
-      <div class="card white">
-        <div class="card-content white-text">
-        <center><a class="waves-effect waves-light btn-large" href="form-frequencia.html">Cadastrar novo Formulário de Ficha de frequência</a></center>
-        <center><a class="waves-effect waves-light btn-large" ><i class="material-icons left" ></i>Inscrição</a></center>
-        <center><a class="waves-effect waves-light btn-large"><i class="material-icons right"></i>Requerimento de Recurso</a></center>
+  <div class="container">
+    <div class="row">
+    <div class="col l4 m4 s12">
+    <div class="card sticky-action">
+        <div class="card-image">
+            <img src="img/alunos1.jpg">
+            <span class="card-title">Ficha de frequência</span>
+            <a class="btn green btn-floating halfway-fab pulse activator">+</a>
         </div>
-      </div>
+            <div class="card-content">
+                    <p>Preencha esse documento sobre tal coisa</p>
+            </div>
+                <div class="card-reveal">
+                    <span class="card-title">Ficha de frequência<i class="right">X</i></span>
+                    <p>Esse documento é sobre isso e isso</p>
+                </div>
+                    <div class="card-action">
+                    <a class="waves-effect waves-light btn-large green" href="form-frequencia.html">PREENCHER</a>
+                    </div>
     </div>
+    </div>
+    <div class="col l4 m4 s12"><div class="card sticky-action">
+        <div class="card-image">
+            <img src="img/alunos1.jpg">
+            <span class="card-title">Docum1</span>
+            <a class="btn green btn-floating halfway-fab pulse activator">+</a>
+        </div>
+            <div class="card-content">
+                    <p>Preencha esse documento sobre tal coisa</p>
+            </div>
+                <div class="card-reveal">
+                    <span class="card-title">Doc1<i class="right">X</i></span>
+                    <p>Esse documento é sobre isso e isso</p>
+                </div>
+                    <div class="card-action">
+                        <a class="waves-effect waves-light btn-large green" href="form-frequencia.html">PREENCHER</a>
+                    </div>
+    </div></div>
+    <div class="col l4 m4 s12"><div class="card sticky-action">
+        <div class="card-image">
+            <img src="img/alunos1.jpg">
+            <span class="card-title">Docum1</span>
+            <a class="btn green btn-floating halfway-fab pulse activator">+</a>
+        </div>
+            <div class="card-content">
+                    <p>Preencha esse documento sobre tal coisa</p>
+            </div>
+                <div class="card-reveal">
+                    <span class="card-title">Doc1<i class="right">X</i></span>
+                    <p>Esse documento é sobre isso e isso</p>
+                </div>
+                    <div class="card-action">
+                        <a class="waves-effect waves-light btn-large green" href="form-frequencia.html">PREENCHER</a>
+                    </div>
+    </div></div>
+    </div>
+    
+
+
   </div>
 
     <!-- Compiled and minified JavaScript -->
