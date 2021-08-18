@@ -15,7 +15,7 @@
                 <a href="#" class="brand-logo">IFB Monitoria</a>
                 <a href="#" class="sidenav-trigger" data-target="slide_out"><em class="material-icons">menu</em></a>
 
-                    <ul class="hide-on-med-and-down right">
+                    <ul class="hide-on-med-and-down right green">
                         <li class="active"><a>Home</a></li>
                         <li><a>Notícias</a></li>
                         <li><a>Sobre</a></li>
@@ -56,7 +56,7 @@
     <div class="col l4 m4 s12"><div class="card sticky-action">
         <div class="card-image">
             <img src="img/alunos1.jpg">
-            <span class="card-title">Docum1</span>
+            <span class="card-title">PLANO DE ACOMPANHAMENTO MENSAL</span>
             <a class="btn green btn-floating halfway-fab pulse activator">+</a>
         </div>
             <div class="card-content">
@@ -69,11 +69,12 @@
                     <div class="card-action">
                         <a class="waves-effect waves-light btn-large green" href="form-frequencia.html">PREENCHER</a>
                     </div>
-    </div></div>
+    </div>
+</div>
     <div class="col l4 m4 s12"><div class="card sticky-action">
         <div class="card-image">
             <img src="img/alunos1.jpg">
-            <span class="card-title">Docum1</span>
+            <span class="card-title">FREQUÊNCIA DOS ESTUDANTES MONITORADOS</span>
             <a class="btn green btn-floating halfway-fab pulse activator">+</a>
         </div>
             <div class="card-content">
@@ -86,9 +87,63 @@
                     <div class="card-action">
                         <a class="waves-effect waves-light btn-large green" href="form-frequencia.html">PREENCHER</a>
                     </div>
-    </div></div>
+    </div>
+</div>
+<div class="col l4 m4 s12"><div class="card sticky-action">
+        <div class="card-image">
+            <img src="img/alunos1.jpg">
+            <span class="card-title">Enviar documento</span>
+            <a class="btn green btn-floating halfway-fab pulse activator">+</a>
+        </div>
+            <div class="card-content">
+                    <p>Preencha esse documento sobre tal coisa</p>
+            </div>
+                <div class="card-reveal">
+                    <span class="card-title">Doc1<i class="right">X</i></span>
+                    <p>Esse documento é sobre isso e isso</p>
+                </div>
+                    <div class="card-action">
+                        <a class="waves-effect waves-light btn-large green" href="upload.php">ENVIAR</a>
+                    </div>
+    </div>
+
+</div>
+<div class="col l4 m4 s12"><div class="card sticky-action">
+        <div class="card-image">
+            <img src="img/alunos1.jpg">
+            <span class="card-title">Enviar documento</span>
+            <a class="btn green btn-floating halfway-fab pulse activator">+</a>
+        </div>
+            <div class="card-content">
+                    <p>Preencha esse documento sobre tal coisa</p>
+            </div>
+                <div class="card-reveal">
+                    <span class="card-title">Doc1<i class="right">X</i></span>
+                    <p>Esse documento é sobre isso e isso</p>
+                </div>
+                    <div class="card-action">
+                        <a class="waves-effect waves-light btn-large green" href="upload.php">ENVIAR</a>
+                    </div>
     </div>
     
+    </div>
+    <div class="col l4 m4 s12"><div class="card sticky-action">
+        <div class="card-image">
+            <img src="img/alunos1.jpg">
+            <span class="card-title">Enviar documento</span>
+            <a class="btn green btn-floating halfway-fab pulse activator">+</a>
+        </div>
+            <div class="card-content">
+                    <p>Preencha esse documento sobre tal coisa</p>
+            </div>
+                <div class="card-reveal">
+                    <span class="card-title">Doc1<i class="right">X</i></span>
+                    <p>Esse documento é sobre isso e isso</p>
+                </div>
+                    <div class="card-action">
+                        <a class="waves-effect waves-light btn-large green" href="upload.php">ENVIAR</a>
+                    </div>
+    </div>
 
 
   </div>
