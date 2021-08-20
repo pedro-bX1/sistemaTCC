@@ -16,20 +16,15 @@
                 <a href="#" class="sidenav-trigger" data-target="slide_out"><em class="material-icons">menu</em></a>
 
                     <ul class="hide-on-med-and-down right green">
-                        <li class="active"><a>Home</a></li>
-                        <li><a>Notícias</a></li>
-                        <li><a>Sobre</a></li>
-                        <li><a>Contato</a></li>         
+                        <li class="active"><a>Contate a CGAE</a></li>     
                     </ul>
             </div>
         </div>
     </nav>
     
                     <ul class="sidenav" id="slide_out">
-                        <li class="active"><a>Home</a></li>
-                        <li><a>Notícias</a></li>
-                        <li><a>Sobre</a></li>
-                        <li><a>Contato</a></li>
+                        <li class="active"><a>Contate a CGAE</a></li>
+                        
                     </ul>
 
   <div class="container">
@@ -37,16 +32,16 @@
     <div class="col l4 m4 s12">
     <div class="card sticky-action">
         <div class="card-image">
-            <img src="img/alunos1.jpg">
+            <img src="img/frq.png">
             <span class="card-title">Ficha de frequência</span>
             <a class="btn green btn-floating halfway-fab pulse activator">+</a>
         </div>
             <div class="card-content">
-                    <p>Preencha esse documento sobre tal coisa</p>
+                    <p>Preencha esse documento</p>
             </div>
                 <div class="card-reveal">
                     <span class="card-title">Ficha de frequência<i class="right">X</i></span>
-                    <p>Esse documento é sobre isso e isso</p>
+                    <p>Esse documento auxilia no controle da frequencia dos alunos atendidos pelo monitor.</p>
                 </div>
                     <div class="card-action">
                     <a class="waves-effect waves-light btn-large green" href="form-frequencia.html">PREENCHER</a>
@@ -55,12 +50,12 @@
     </div>
     <div class="col l4 m4 s12"><div class="card sticky-action">
         <div class="card-image">
-            <img src="img/alunos1.jpg">
+            <img src="img/mes.jpg">
             <span class="card-title">PLANO DE ACOMPANHAMENTO MENSAL</span>
             <a class="btn green btn-floating halfway-fab pulse activator">+</a>
         </div>
             <div class="card-content">
-                    <p>Preencha esse documento sobre tal coisa</p>
+                    <p>Preencha esse documento</p>
             </div>
                 <div class="card-reveal">
                     <span class="card-title">Doc1<i class="right">X</i></span>
@@ -78,7 +73,7 @@
             <a class="btn green btn-floating halfway-fab pulse activator">+</a>
         </div>
             <div class="card-content">
-                    <p>Preencha esse documento sobre tal coisa</p>
+                    <p>Preencha esse documento</p>
             </div>
                 <div class="card-reveal">
                     <span class="card-title">Doc1<i class="right">X</i></span>
@@ -91,12 +86,12 @@
 </div>
 <div class="col l4 m4 s12"><div class="card sticky-action">
         <div class="card-image">
-            <img src="img/alunos1.jpg">
+            <img src="img/28510.jpg">
             <span class="card-title">Enviar documento</span>
             <a class="btn green btn-floating halfway-fab pulse activator">+</a>
         </div>
             <div class="card-content">
-                    <p>Preencha esse documento sobre tal coisa</p>
+                    <p>Envio de documento Ficha de frequência</p>
             </div>
                 <div class="card-reveal">
                     <span class="card-title">Doc1<i class="right">X</i></span>
@@ -110,12 +105,12 @@
 </div>
 <div class="col l4 m4 s12"><div class="card sticky-action">
         <div class="card-image">
-            <img src="img/alunos1.jpg">
+            <img src="img/28510.jpg">
             <span class="card-title">Enviar documento</span>
             <a class="btn green btn-floating halfway-fab pulse activator">+</a>
         </div>
             <div class="card-content">
-                    <p>Preencha esse documento sobre tal coisa</p>
+                    <p>Envio de documento PLANO DE ACOMPANHAMENTO MENSAL</p>
             </div>
                 <div class="card-reveal">
                     <span class="card-title">Doc1<i class="right">X</i></span>
@@ -129,12 +124,12 @@
     </div>
     <div class="col l4 m4 s12"><div class="card sticky-action">
         <div class="card-image">
-            <img src="img/alunos1.jpg">
+            <img src="img/28510.jpg">
             <span class="card-title">Enviar documento</span>
             <a class="btn green btn-floating halfway-fab pulse activator">+</a>
         </div>
             <div class="card-content">
-                    <p>Preencha esse documento sobre tal coisa</p>
+                    <p>Envio de documento FREQUÊNCIA DOS ESTUDANTES MONITORADOS</p>
             </div>
                 <div class="card-reveal">
                     <span class="card-title">Doc1<i class="right">X</i></span>
