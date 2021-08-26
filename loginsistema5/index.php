@@ -77,7 +77,7 @@
 
                 switch ($nivel) {
                     case '0':
-                        header("location:admin.php");
+                        header("location:cgae.php");
                         break;
                     case '01':
                         header("location:aluno.php");
