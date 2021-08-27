@@ -1,4 +1,6 @@
+<?php session_start(); ?>
 <!DOCTYPE html>
+
 <html lang="pt-br">
 <head>
     <meta charset="UTF-8">
@@ -14,10 +16,10 @@
     
     <div class="card-body">
         <h1><center>IFB monitoria</center></h1>
-        <form method="POST">
+        <form method="POST" action="cadastro.php">
             <div class="mb-3">
-                <label class="form-label">Usuário</label>
-                <input type="text" class="form-control" placeholder="Insira o usuário" name="user">
+                <label class="form-label">E-mail</label>
+                <input type="email" class="form-control" placeholder="Insira o e-mail" name="user">
             </div>
 
             <div class="mb-3">
@@ -27,7 +29,7 @@
             
             <div class="d-grid gap-2">
                 <button type="submit" class="btn btn-success btn-lg" name="btnLoginEntrar">Entrar</button>
-                <button type="submit" class="btn btn-primary btn-lg" name="btnCadastro">Cadastre-se</button>
+                <input type="submit" value="cadastrar">
                 
             </div>
  
